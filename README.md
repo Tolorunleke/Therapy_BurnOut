@@ -1,6 +1,5 @@
 Title: Predicting Therapist Burnout with Machine Learning
 
-
 Overview
 
 This project employs machine learning to address the critical issue of therapist burnout, affecting 45% of therapists. Using Python and Azure, the study aims to identify burned-out therapists, predict potential burnout cases, and implement preventative measures. The models, including Random Forest and Azure classifiers, offer advanced techniques for classification tasks. The dataset, collected from a 2007 survey, covers various factors contributing to therapist burnout.
